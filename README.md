@@ -6,4 +6,5 @@ g++ artist.cpp lib/*.cpp -lncurses
 Move the cursor around with arrow keys
 Press characters to type them on the console
 Press home to clear the entire console
+Press delete to remove the character the cursor is over
 Press end to close the program
